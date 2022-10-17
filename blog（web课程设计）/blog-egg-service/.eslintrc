@@ -1,0 +1,4 @@
+{
+  "singleQuote": true	,		//启用单引号
+  "extends": "eslint-config-egg"
+}

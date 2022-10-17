@@ -1,0 +1,4 @@
+{
+  "extends": "next/core-web-vitals",
+  "no-console": "off"	//关闭console警告
+}
